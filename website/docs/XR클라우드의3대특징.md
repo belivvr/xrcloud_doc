@@ -9,7 +9,7 @@ title: 빌리버 XR클라우드의 3대 특징
 - 정보 서비스 개발은 웹 기반, 메타버스도 글로벌 표준 WebXR
 - 글로벌 표준 기술인 WebXR은 체계적인 개발프로세스 아래, 지속적인 확장이 가능합니다.
 
-<img src="/docs/xrcloud/img/img1_1.png" height="100%" width="100%"/>
+<img src="/xrcloud-intro/img/img1_1.png" height="100%" width="100%"/>
 
 <center>
 
@@ -32,7 +32,7 @@ title: 빌리버 XR클라우드의 3대 특징
 - 빌리버의 XR클라우드, 글로벌 오픈소스 프로젝트, 모질라 허브 기반
 - 웹에디터 제공, 화면/문서공유, 셀카, 3D이모지, 채팅 등 강력한 기능을 제공하고 지속적 업데이트
 
-<img src="/docs/xrcloud/img/img1_2.png" height="100%" width="100%"/>
+<img src="/xrcloud-intro/img/img1_2.png" height="100%" width="100%"/>
 
 <br/>
 <br/>
@@ -41,7 +41,7 @@ title: 빌리버 XR클라우드의 3대 특징
 -	사용자 자체 플랫폼 구축과 API연동으로 확보되는 우수한 보안성
 -	기존 정보시스템과의 API연동으로 확보되는 손쉬운 확장성
 
-<img src="/docs/xrcloud/img/img1_3.png" height="100%" width="100%"/>
+<img src="/xrcloud-intro/img/img1_3.png" height="100%" width="100%"/>
 
 <center>
 

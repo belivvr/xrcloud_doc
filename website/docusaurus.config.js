@@ -9,12 +9,12 @@ const config = {
   title: 'XR Cloud',
   tagline: 'XR Cloud',
   url: 'https://xrcloud.belivvr.com',
-  baseUrl: '/docs/xrcloud/',
+  baseUrl: '/xrcloud-intro/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.webp',
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'xrcloud', // Usually your repo name.
 
   presets: [
     [

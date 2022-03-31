@@ -14,5 +14,7 @@ title: 빌리버 XR클라우드 소개
 
 <br/>
 
-<a href="https://xrcloud.belivvr.com/docs/xrcloud/img/XR_Intro.pdf" download>상품 소개서 다운로드</a>
+<a href="https://developers.belivvr.com/docs/xrcloud/img/XR_Intro.pdf" download>상품 소개서 다운로드</a>
+
+
 </center>
