@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'XR Cloud',
-  tagline: 'XR Cloud',
+  title: 'XRCloud',
+  tagline: 'XRCloud',
   url: 'https://developers.belivvr.com',
-  baseUrl: '/xrcloud-intro/',
+  baseUrl: '/xrcloud-intro-en/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.webp',
+  favicon: 'img/favicon.webp',
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'xrcloud', // Usually your repo name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/belivvr/xrcloud_doc/blob/master/website/docs/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'right',
-            label: '소개',
+            label: 'Intro',
           },
           {
             href: 'https://github.com/belivvr/xrcloud_doc',

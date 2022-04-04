@@ -54,7 +54,7 @@ title: 빌리버 XR클라우드의 3대 특징
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1AVeAjUG3vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9pldpRMBy4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
